@@ -1,0 +1,6 @@
+test
+node_modules
+*.csv
+.idea
+Full_C*
+package-lock.json
