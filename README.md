@@ -1,6 +1,6 @@
-# Pinata Uploader
+# Papel Mache
 
-A short project that uploads pictures to pinata.cloud
+Papel Mache is an app that uploads pictures to IPFS through pinata.cloud 
 
 ---
 ## Requirements
