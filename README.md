@@ -1,6 +1,6 @@
 # Papel Mache
 
-Papel Mache is an app that uploads pictures to IPFS through pinata.cloud 
+Papel Mache is an app that uploads pictures to IPFS through pinata.cloud, useful for NFTs collections and automatically deploys in IPFS
 
 ---
 ## Requirements
